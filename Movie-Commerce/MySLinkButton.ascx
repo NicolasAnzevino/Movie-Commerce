@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MySLinkButton.ascx.cs" Inherits="Movie_Commerce.MySLinkButton" %>
+<asp:LinkButton ID="LinkButton1" runat="server" Font-Overline="False" class="nav-link active" Font-Underline="False">LinkButton</asp:LinkButton>
